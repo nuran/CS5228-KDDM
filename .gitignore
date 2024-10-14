@@ -266,3 +266,4 @@ pyrightconfig.json
 
 *.pkl
 predictions/*
+images/*
